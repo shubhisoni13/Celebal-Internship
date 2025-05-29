@@ -14,7 +14,6 @@ To get started with the AdventureWorks database, follow these steps to download 
 
 Make sure to use the AdventureWorks 2019 OLTP database for your tasks.
 
---
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at:
